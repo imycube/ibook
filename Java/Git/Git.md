@@ -50,8 +50,24 @@
 
 远程拉取 ： git pull
 
-合并： git merge feature/branch  
+合并后并产生commit记录： git merge feature/branch  
 
-拉取别的分支到当前分支： git rebase master -i
+合并不产生合并记录： git rebase master -i
 
 获取develop的commit合并到当前branch: git pull origin develop
+
+---
+## log日志
+| 功能 | 命令 |
+| ---- | ---- |
+| 查看所有 | git log |
+| 一行显示 | git log --oneline |
+| 显示几条 | git log -[length] |
+| 显示更多信息 | git log –pretty=raw |
+| 显示提交的改动记录 | git log -p |
+| 提交的记录 | git log --graph --oneline |
+| 显示分支/tag | git log --decorate |
+| 显示对应文件改动 | git log --name-status --oneline |
+| 搜索人员 | git log --author name |
+| 关键字搜索 | git log --grep keyword |
+| 文件名称过滤 | git log -p -- filename |
