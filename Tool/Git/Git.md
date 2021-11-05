@@ -22,6 +22,8 @@
 
 添加tag: git tag [tag]
 
+添加tag描述: git tag -a <tagname> -m "runoob.com标签"
+
 删除tag: git tag -d [tag]
 
 删除远程tag : git push origin :refs/tags/[tag] 

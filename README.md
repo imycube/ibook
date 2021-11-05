@@ -4,4 +4,4 @@
 
 ## [数据库学习](Database/Database.md)
 
-## [Linux学习](Linux.md)
+## [Linux学习](Linux/Linux.md)
