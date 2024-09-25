@@ -1,7 +1,7 @@
 # this is learn book text
 
-## [Java学习](Java/Java.md)
+## [Java](Java/Java.md)
 
-## [数据库学习](Database/Database.md)
+## [Database](Database/Database.md)
 
-## [Linux学习](Linux/Linux.md)
+## [Linux](Linux/Linux.md)
