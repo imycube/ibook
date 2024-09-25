@@ -1,8 +1,8 @@
 # DATABASE
 
-## [SQL](Database/SQL/SQL.md)
+## [SQL](SQL/SQL.md)
   
-## [MySQL](Database/MySQL/MySQL.md)  
-## [Mongodb](Database/Mongo/Mongo.md)  
+## [MySQL](MySQL/MySQL.md)  
+## [Mongodb](Mongo/Mongo.md)  
 
-## [Redis](Database/Redis/Redis.md)
+## [Redis](Redis/Redis.md)
